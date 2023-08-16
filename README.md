@@ -1,3 +1,8 @@
+Fork from https://github.com/marcsances/no-more-twitch-bots
+Disclaimer: i'm not a programmer and i pretty much chatGPT my way with this, use at your own risk
+updated the client id to the one used by https://twitchapps.com/tmi/
+updated to a more recent version of twitch api because the old one was outdated and the original script wouldn't work
+
 # no-more-twitch-bots
 
 Extremely simple script that will automatically ban all lurker Twitch bots that add up into your viewer list on Twitch 
